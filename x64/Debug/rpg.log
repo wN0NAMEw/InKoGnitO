@@ -1,5 +1,0 @@
-﻿  rpg.cpp
-C:\Users\мк\Desktop\rpg\rpg\rpg.cpp(503,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\мк\Desktop\rpg\rpg\rpg.cpp(647,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\мк\Desktop\rpg\rpg\rpg.cpp(877,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  rpg.vcxproj -> C:\Users\мк\Desktop\rpg\x64\Debug\rpg.exe
