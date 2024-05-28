@@ -1,4 +1,1 @@
-# InKoGnitO
-AbObA
-XD
-лох
+привет
