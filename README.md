@@ -8,5 +8,4 @@
 
   [100% not RikRoll](https://youtu.be/5awNQxP0OzA?si=lG4xNEDPDifQ_xnR)
 
-  https://www.gifcen.com/wp-content/uploads/2024/02/rickroll-gif-6.gif
   <img src="https://www.gifcen.com/wp-content/uploads/2024/02/rickroll-gif-6.gif" />
