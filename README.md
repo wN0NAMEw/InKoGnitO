@@ -5,4 +5,3 @@ InKoGnitO
 Максим.
 
 https://replit.com/join/vbclapeppb-noname343
-илья привет
